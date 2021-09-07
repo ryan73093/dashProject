@@ -1,0 +1,1 @@
+waitress-serve --port=8888 app:app.server
